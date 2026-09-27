@@ -1,0 +1,14 @@
+C:\A.TugasSekolah\SMK\Kelas 11\PGIM\GameInheritanceDemo\obj\Debug\net9.0\GameInheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\A.TugasSekolah\SMK\Kelas 11\PGIM\GameInheritanceDemo\obj\Debug\net9.0\GameInheritanceDemo.AssemblyInfoInputs.cache
+C:\A.TugasSekolah\SMK\Kelas 11\PGIM\GameInheritanceDemo\obj\Debug\net9.0\GameInheritanceDemo.AssemblyInfo.cs
+C:\A.TugasSekolah\SMK\Kelas 11\PGIM\GameInheritanceDemo\obj\Debug\net9.0\GameInheritanceDemo.csproj.CoreCompileInputs.cache
+C:\A.TugasSekolah\SMK\Kelas 11\PGIM\GameInheritanceDemo\bin\Debug\net9.0\GameInheritanceDemo.exe
+C:\A.TugasSekolah\SMK\Kelas 11\PGIM\GameInheritanceDemo\bin\Debug\net9.0\GameInheritanceDemo.deps.json
+C:\A.TugasSekolah\SMK\Kelas 11\PGIM\GameInheritanceDemo\bin\Debug\net9.0\GameInheritanceDemo.runtimeconfig.json
+C:\A.TugasSekolah\SMK\Kelas 11\PGIM\GameInheritanceDemo\bin\Debug\net9.0\GameInheritanceDemo.dll
+C:\A.TugasSekolah\SMK\Kelas 11\PGIM\GameInheritanceDemo\bin\Debug\net9.0\GameInheritanceDemo.pdb
+C:\A.TugasSekolah\SMK\Kelas 11\PGIM\GameInheritanceDemo\obj\Debug\net9.0\GameInheritanceDemo.dll
+C:\A.TugasSekolah\SMK\Kelas 11\PGIM\GameInheritanceDemo\obj\Debug\net9.0\refint\GameInheritanceDemo.dll
+C:\A.TugasSekolah\SMK\Kelas 11\PGIM\GameInheritanceDemo\obj\Debug\net9.0\GameInheritanceDemo.pdb
+C:\A.TugasSekolah\SMK\Kelas 11\PGIM\GameInheritanceDemo\obj\Debug\net9.0\GameInheritanceDemo.genruntimeconfig.cache
+C:\A.TugasSekolah\SMK\Kelas 11\PGIM\GameInheritanceDemo\obj\Debug\net9.0\ref\GameInheritanceDemo.dll
